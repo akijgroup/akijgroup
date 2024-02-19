@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Assalamualikum , I'm Mathieu 👋 We Are 🚀 Akij Group IT Family  🚀 I ❤️ Happy Waching  ❤️">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Assalamualikum ,  👋 We Are 🚀 Akij Group IT Family  🚀 I ❤️ Happy Waching  ❤️">
 </p>
 
 <!--
