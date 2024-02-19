@@ -1,15 +1,14 @@
-<a href=" default.asp">
-  <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;border:0">
-</a>
-<h1 align="center">  Akij Group </h1>
-<h3 align="center"> Top Group Of Company In Bangladesh .</h3>
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Assalamualikum , I'm Mathieu 👋 We Are 🚀 Akij Group IT Family  🚀 I ❤️ Happy Waching  ❤️">
+</p>
 
+<!--
+How to make this gif ?
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=boniyeamincse&label=Profile%20views&color=0e75b6&style=flat" alt="boniyeamincse" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boniyeamincse" alt="boniyeamincse" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/boniyeamin" target="blank"><img src="https://img.shields.io/twitter/follow/boniyeamin?logo=twitter&style=for-the-badge" alt="boniyeamin" /></a> </p>
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
+Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
 
 # Akij Group IT Team Description 🖥️
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
