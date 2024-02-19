@@ -1,3 +1,16 @@
+<a href=" default.asp">
+  <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;border:0">
+</a>
+<h1 align="center">  I'm Boni Yeamin</h1>
+<h3 align="center">I'm a passionate, accomplished, and experienced Cyber Security Engineer .</h3>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=boniyeamincse&label=Profile%20views&color=0e75b6&style=flat" alt="boniyeamincse" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boniyeamincse" alt="boniyeamincse" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/boniyeamin" target="blank"><img src="https://img.shields.io/twitter/follow/boniyeamin?logo=twitter&style=for-the-badge" alt="boniyeamin" /></a> </p>
+
 # Akij Group IT Team Description 🖥️
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
