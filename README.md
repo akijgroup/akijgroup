@@ -20,7 +20,13 @@ The Network Team is tasked with managing and maintaining the organization's netw
 - Configuring and optimizing network devices such as routers, switches, and firewalls.
 - Implementing robust security measures to safeguard the network against unauthorized access and cyber threats.
 - Providing technical support and guidance for network-related matters.
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='right'>
+
+
+
+
+
+
 ## Cyber Security Team 🔒
 The Cyber Security Team at Akij Group is dedicated to safeguarding our digital assets and protecting against cyber threats. Their duties encompass:
 - Conducting regular security assessments and audits to identify vulnerabilities.
