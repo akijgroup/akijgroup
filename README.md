@@ -1,5 +1,5 @@
 # Akij Group IT Team Description 🖥️
-<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
+<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='right'>
 ## Overview 🌐
 The IT department at Akij Group comprises three specialized teams: Software, Network, and Cyber Security. Each team plays a vital role in ensuring the efficiency, security, and reliability of our IT infrastructure.
 
